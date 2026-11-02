@@ -7,6 +7,7 @@ Inspired by real-world food delivery challenges (such as iFood's *Large Commerce
 ## Hugging Face Links
 - **Model (LoRA Adapter):** [`BernardoDev07/qwen2.5-1.5b-ifood-intent-ptbr`](https://huggingface.co/BernardoDev07/qwen2.5-1.5b-ifood-intent-ptbr)
 - **Dataset:** [`BernardoDev07/ifood-pedidos-intent-ptbr`](https://huggingface.co/datasets/BernardoDev07/ifood-pedidos-intent-ptbr)
+- **Interactive Space Demo:** [`BernardoDev07/ifood_solution`](https://huggingface.co/spaces/BernardoDev07/ifood_solution)
 
 ## Example
 
