@@ -1,0 +1,13 @@
+# Python & uv
+.venv/
+__pycache__/
+*.py[cod]
+
+# Segredos e config local de agente
+.env
+AGENTS.md
+
+# Dados locais gerados / modelos pesados
+data/*.jsonl
+outputs/
+lora_model/
